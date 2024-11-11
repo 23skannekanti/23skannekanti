@@ -2,7 +2,7 @@
 # Hey, I'm Satvik Kannekanti
 
 Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my journey and learnings in tech<br/>
-📖 Studying [Data Analytics]() at the Ohio State University, Columbus, OH<br/>
+📖 Studying [Data Analytics]() at The Ohio State University (Columbus, OH) <br/>
 📊 Currently learning about data analytics and machine learning
 
 ---
