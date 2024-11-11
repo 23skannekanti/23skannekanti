@@ -1,4 +1,5 @@
 
+![Satvik Kannekanti](https://link-to-your-image.com/name-image.png)
 ### Hey, I'm Satvik Kannekanti
 
 Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my journey and learnings in tech<br/>
