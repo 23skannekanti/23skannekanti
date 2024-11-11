@@ -5,7 +5,8 @@ Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my jou
 📖 Studying [Data Analytics]() at the Ohio State University, Columbus, OH<br/>
 📊 Currently learning about data analytics and machine learning
 
-💻 **Technologies:**
+---
+**Technologies:**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,7 +22,7 @@ Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my jou
 
 ---
 
-🌐 **Socials:**
+ **Socials:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ksatvik)
 
