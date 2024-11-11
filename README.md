@@ -1,6 +1,5 @@
 
-![Satvik Kannekanti](https://link-to-your-image.com/name-image.png)
-### Hey, I'm Satvik Kannekanti
+# Hey, I'm Satvik Kannekanti
 
 Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my journey and learnings in tech<br/>
 📖 Studying [Data Analytics]() at the Ohio State University, Columbus, OH<br/>
