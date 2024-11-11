@@ -33,4 +33,8 @@ Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my jou
 ![Satvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23skannekanti&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23skannekanti&layout=compact&theme=radical)
 
+---
+![Profile Views](https://komarev.com/ghpvc/?username=23skannekanti&style=flat-square)
+
+
 
