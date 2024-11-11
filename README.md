@@ -30,5 +30,5 @@ Aspiring Software Engineer, Data Scienist, and Data Analyst sharing about my jou
 
 ## GitHub Stats:
 
-![Satvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Satvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23skannekanti&show_icons=true&theme=radical&count_private=true)
 
